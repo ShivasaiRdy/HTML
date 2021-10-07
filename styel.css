@@ -1,0 +1,23 @@
+*{
+    background-color:rgba(141, 75, 81, 0.082)
+}
+h1{
+    padding: 20px 5px;
+    margin: 20px 5px;
+    border: 3px solid white;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+table{
+    position: relative;
+    left: 40%;
+}
+h2{
+    text-align: center;
+}
+a{
+    color:rgb(224, 20, 20);
+    margin-right: 20px;
+}
+
+
